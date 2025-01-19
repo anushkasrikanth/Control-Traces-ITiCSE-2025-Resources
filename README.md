@@ -16,6 +16,9 @@ available a comprehensive set of resources.
 
 
 ## Practice Questions for Students
+- [Practice Programs](./practice-sheets/practice-programs.pdf)
+- [Pratice Questions](./practice-sheets/practice-questions.pdf)
+- [Practice Answers](./practice-sheets/practice-answers.pdf)
 
 
 ## Four Sets of Question Papers
