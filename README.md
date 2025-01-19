@@ -20,6 +20,11 @@ available a comprehensive set of resources.
 
 ## Four Sets of Question Papers
 
+- [Set 1](./question-papers/set-1.pdf)
+- [Set 2](./question-papers/set-2.pdf)
+- [Set 3](./question-papers/set-3.pdf)
+- [Set 4](./question-papers/set-4.pdf)
+
 
 ## Four Sets of Answer Keys
 
