@@ -14,12 +14,11 @@ available a comprehensive set of resources.
 
 ## Example Programs and Their Corresponding Control-Flow Artefacts
 
+- [Examples](./examples/examples.pdf)
 
 ## Practice Questions for Students
-- [Practice Programs](./practice-sheets/practice-programs.pdf)
-- [Pratice Questions](./practice-sheets/practice-questions.pdf)
-- [Practice Answers](./practice-sheets/practice-answers.pdf)
 
+- [Practice Programs](./practice-sheet/practice-programs.pdf)
 
 ## Four Sets of Question Papers
 
@@ -27,7 +26,6 @@ available a comprehensive set of resources.
 - [Set 2](./question-papers/set-2.pdf)
 - [Set 3](./question-papers/set-3.pdf)
 - [Set 4](./question-papers/set-4.pdf)
-
 
 ## Four Sets of Answer Keys
 
