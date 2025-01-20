@@ -11,6 +11,8 @@ available a comprehensive set of resources.
 
 ## Lecture Slides
 
+- [Sequential and Conditional Control-Flow](./lecture-slides/sequential-and-conditional.pdf)
+- [Iterative and Procedural Control-Flow](./lecture-slides/iterative-and-procedural.pdf)
 
 ## Example Programs and Their Corresponding Control-Flow Artefacts
 
