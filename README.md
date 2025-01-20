@@ -5,9 +5,9 @@ available a comprehensive set of resources.
 
 ## BNF Grammar for the Simplified Subset of Python Used
 
+## Formal Definitons of Control Transfer Functions
 
-## Semantics
-
+- [Control Transfer Functions](./control-transfer-functions/ctf.org)
 
 ## Lecture Slides
 
