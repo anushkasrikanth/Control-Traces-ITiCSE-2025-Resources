@@ -5,6 +5,8 @@ available a comprehensive set of resources.
 
 ## BNF Grammar for the Simplified Subset of Python Used
 
+- [This is missing!]()
+
 ## Formal Definitons of Control Transfer Functions
 
 - [Control Transfer Functions](./control-transfer-functions/ctf.org)
@@ -40,4 +42,7 @@ available a comprehensive set of resources.
 
 - [Grading rubric](./grading-rubric/grading-rubric.pdf)
 
-## Additional Exploratory Analysis
+## Data Collected and Exploratory Analysis
+
+- [Student scores across all artefacts and control-structures](./data-and-analysis/student-scores.xlsx)
+- [Student mistakes in artefact 2 (Control Transfer Functions)](./data-and-analysis/student-ctf-table-mistakes.xlsx)
