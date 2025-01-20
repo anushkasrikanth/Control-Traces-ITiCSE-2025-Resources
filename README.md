@@ -18,7 +18,7 @@ available a comprehensive set of resources.
 
 ## Practice Questions for Students
 
-- [Practice Programs](./practice-sheet/practice-programs.pdf)
+- [Practice Worksheet](./practice-sheet/practice-programs.pdf)
 
 ## Four Sets of Question Papers
 
@@ -29,8 +29,13 @@ available a comprehensive set of resources.
 
 ## Four Sets of Answer Keys
 
+- [Set 1](./answer-keys/set-1.pdf)
+<!-- - [Set 2](./answer-keys/set-2.pdf) -->
+- [Set 3](./answer-keys/set-3.pdf)
+- [Set 4](./answer-keys/set-4.pdf)
 
-## Grading Rubrics
+## Grading Rubric
 
+- [Grading rubric](./grading-rubric/grading-rubric.pdf)
 
 ## Additional Exploratory Analysis
