@@ -44,5 +44,5 @@ available a comprehensive set of resources.
 
 ## Data Collected and Exploratory Analysis
 
-- [Student scores across all artefacts and control-structures](./data-and-analysis/student-scores.xlsx)
+- [Student scores across all artefacts and control structures](./data-and-analysis/student-scores.xlsx)
 - [Student mistakes in artefact 2 (Control Transfer Functions)](./data-and-analysis/student-ctf-table-mistakes.xlsx)
