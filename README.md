@@ -3,13 +3,9 @@
 To facilitate the reproducibility of our work, we have made
 available a comprehensive set of resources. 
 
-## BNF Grammar for the Simplified Subset of Python Used
+## Simplified Python: Syntax and Control Transfer Functions
 
-- [This is missing!]()
-
-## Formal Definitons of Control Transfer Functions
-
-- [Control Transfer Functions](./control-transfer-functions/ctf.org)
+- [A guide for instructors (and learners)](./syntax-and-ctfs/synatx-and-ctfs.pdf)
 
 ## Lecture Slides
 
