@@ -30,7 +30,7 @@ available a comprehensive set of resources.
 ## Four Sets of Answer Keys
 
 - [Set 1](./answer-keys/set-1.pdf)
-<!-- - [Set 2](./answer-keys/set-2.pdf) -->
+- [Set 2](./answer-keys/set-2.pdf)
 - [Set 3](./answer-keys/set-3.pdf)
 - [Set 4](./answer-keys/set-4.pdf)
 
